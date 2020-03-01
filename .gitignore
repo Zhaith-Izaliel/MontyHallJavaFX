@@ -1,0 +1,45 @@
+.nyc_output
+.DS_Store
+.awcache
+.rpt2_cache
+
+#
+# Swap and log
+#
+*.swp
+*.log
+
+node_modules
+coverage
+dist
+compiled
+docs
+ 
+#
+# Standard Maven .gitignore
+#
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+#
+# IntelliJ
+#
+*.iml
+.idea/*
+!.idea/runConfigurations/
+
+#
+# Visual Studio Code
+#
+.settings/
+.classpath
+.project
+.sourcepath
+.vscode/
