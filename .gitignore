@@ -14,7 +14,7 @@ coverage
 dist
 compiled
 docs
- 
+
 #
 # Standard Maven .gitignore
 #
